@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color:rgb(240, 211, 174);
+    margin: 0px;
+    padding: 50px;
+    position: 50px;
+    height: 180px;
+    overflow: hidden;
+    
+}
+
+.header_logo {
+    width: 250px;
+    height: 180px;
+    top: 0vh;
+    left: 1vw;
+    margin-left: -50px;
+    position: absolute;
+}
+
+.nav {
+    text-align: right;
+    margin-top: 30px;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.aside {
+    background-color:rgb(102, 138, 135);
+    height: 310px;
+    width: 180px;
+}
+
+.img-1 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvfCqnX9YpPziXxsz0SRGp0wtR5TP3f50H2g&usqp=CAU);
+    border-radius: 15px;
+    width: 180px;
+    height: 180px;
+    position:absolute;
+    top: 30vh;
+    left: 0vw;
+}
+
+.fig-1 {
+    background-color: rgb(122, 76, 76);
+    border-radius: 15px;
+    width: 180px;
+    height: 300px;
+    position:absolute;
+    top: 60vh;
+    left: 0vw;
+}
+
+.fig_p {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-top: 40px;
+    
+}
+
+.fig-2 {
+    background-color: rgb(122, 76, 76);
+    border-radius: 15px;
+    width: 180px;
+    height: 300px;
+    position:absolute;
+    top: 110vh;
+    left: 0vw;
+}
+
+.fig_p-1 {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-top: 70px;
+    
+}
+
+.img-2 {
+    background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2015/07/502314-interstellar-tenia-final-mucho-mas-oscuro.jpg?tf=3840x);
+    border-radius: 15px;
+    width: 180px;
+    height: 180px;
+    position:absolute;
+    top: 158vh;
+    left: 0vw;
+    background-position: 100% center;
+    background-size: cover;
+}
+
+   main {
+    background-color: aqua;
+    width: 1345px;
+    height: 1241px;
+    position:absolute;
+    top: vh;
+    left: 11.7vw; 
+}
+    
+
+.footer {
+    background-color:rgb(240, 211, 174);
+    margin: 0px;
+    padding: 50px;
+    position: 50px;
+    height: 180px;
+    overflow: hidden;
+}
+
+.footer p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+}
